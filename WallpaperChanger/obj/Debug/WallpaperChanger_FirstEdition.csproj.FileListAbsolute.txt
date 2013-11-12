@@ -1,0 +1,13 @@
+C:\Users\LiuJ\Desktop\Test\WallpaperChanger\WallpaperChanger\bin\Debug\WallpaperChanger.exe.config
+C:\Users\LiuJ\Desktop\Test\WallpaperChanger\WallpaperChanger\bin\Debug\WallpaperChanger.exe
+C:\Users\LiuJ\Desktop\Test\WallpaperChanger\WallpaperChanger\bin\Debug\WallpaperChanger.pdb
+C:\Users\LiuJ\Desktop\Test\WallpaperChanger\WallpaperChanger\obj\Debug\WallpaperChanger_FirstEdition.csprojResolveAssemblyReference.cache
+C:\Users\LiuJ\Desktop\Test\WallpaperChanger\WallpaperChanger\obj\Debug\WallpaperChanger.Form1.resources
+C:\Users\LiuJ\Desktop\Test\WallpaperChanger\WallpaperChanger\obj\Debug\WallpaperChanger.Properties.Resources.resources
+C:\Users\LiuJ\Desktop\Test\WallpaperChanger\WallpaperChanger\obj\Debug\WallpaperChanger_FirstEdition.csproj.GenerateResource.Cache
+C:\Users\LiuJ\Desktop\Test\WallpaperChanger\WallpaperChanger\obj\Debug\WallpaperChanger.exe
+C:\Users\LiuJ\Desktop\Test\WallpaperChanger\WallpaperChanger\obj\Debug\WallpaperChanger.pdb
+C:\Users\LiuJ\Desktop\Test\WallpaperChanger\WallpaperChanger\bin\Debug\WallPaperXmlDLL.dll
+C:\Users\LiuJ\Desktop\Test\WallpaperChanger\WallpaperChanger\bin\Debug\WallPaperXmlDLL.pdb
+C:\Users\LiuJ\Desktop\Test\WallpaperChanger\WallpaperChanger\obj\Debug\WallpaperChanger.CustomForm.resources
+C:\Users\LiuJ\Desktop\Test\WallpaperChanger\WallpaperChanger\obj\Debug\WallpaperChanger.FormAddGroup.resources
